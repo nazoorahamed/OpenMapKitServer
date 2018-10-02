@@ -9,5 +9,6 @@ module.exports = {
         server: 'http://osm.posm.io',
         user: 'POSM',
         pass: ''
+        
     }
 };
